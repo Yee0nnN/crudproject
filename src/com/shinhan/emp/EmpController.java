@@ -13,6 +13,7 @@ import travelplan.common.EmpDTO;
 //MVC2모델
 //FrontController -> Controller 선택 -> Service -> DAO -> DB
 //                <-                           <-     <-
+//
 public class EmpController implements CommonControllerInterface{
 
 	static Scanner sc = new Scanner(System.in);
